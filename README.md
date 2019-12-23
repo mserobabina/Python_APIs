@@ -6,7 +6,7 @@ Building a series of scatter plots to showcase the following relationships:
 - Temperature (F) vs. Latitude
 - Humidity (%) vs. Latitude
 - Cloudiness (%) vs. Latitude 
-- Wind Speed (mph) vs. Latitude 
+- Wind Speed (mph) vs. Latitude  
     
 A Python script accomplishes the following: 
 - Randomly selects at least 500 unique (non-repeat) cities based on latitude and longitude.
