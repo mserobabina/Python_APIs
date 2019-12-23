@@ -1,6 +1,6 @@
 # Python_APIs
 ## Background
-Creating a `Python script` to visualize the weather of 500+ cities across the world of varying distance from the equator using [CityPy], a simple [Python library], and the [OpenWeatherMap API].
+Creating a `Python script` to visualize the weather of 500+ cities across the world of varying distance from the equator using [CityPy](https://pypi.org/project/citipy/), a simple [Python library], and the [OpenWeatherMap API].
 ## Objective
 Building a series of scatter plots to showcase the following relationships:
 - Temperature (F) vs. Latitude
