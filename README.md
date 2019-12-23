@@ -9,7 +9,7 @@ Building a series of scatter plots to showcase the following relationships:
 - Wind Speed (mph) vs. Latitude
   
 A Python script accomplishes the following:
-- Randomly selects at least 500 unique (non-repeat) cities based on latitude and longitude. 
+- Randomly selects at least 500 unique (non-repeat) cities based on latitude and longitude.
 - Performs a weather check on each of the cities using a series of successive `API calls`.
 - Includes a print log of each city as it's being processed with the city number and city name.
 - Saves both a CSV of all data retrieved and png images for each scatter plot.
