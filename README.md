@@ -20,14 +20,17 @@ A Python script accomplishes the following:
 
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture1.PNG)
 ### Generating Cities List
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture2.PNG)
 ### Performing API Calls
 - Performing a weather check on each city using a series of successive API calls
 - Including a print log of each city as it's being processed (with the city number and city name)
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture3.PNG)
 ### Converting Raw Data to DataFrame
 - Exporting the city data into a [weather_data.csv](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Output_csv/weather_data.csv)
 - Displaying the DataFrame
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture4.PNG)
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture5.PNG)
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture6.PNG)
@@ -36,10 +39,14 @@ A Python script accomplishes the following:
 - Using a proper labeling of the plots using plot titles (including date of analysis) and axes labels
 - Save the plotted figures as pngs
 #### Latitude vs. Temperature Plot 
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture8.PNG)
 #### Latitude vs. Humidity Plot
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture9.PNG)
 #### Latitude vs. Cloudiness Plot
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture10.PNG)
 #### Latitude vs. Wind Speed Plot
+
 ![Image](https://github.com/mserobabina/Python_APIs/blob/master/WeatherPy/Capture11.PNG)
